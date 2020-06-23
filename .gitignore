@@ -1,0 +1,11 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+# Test binary, build with `go test -c`
+*.test
+# ---> VisualStudioCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
